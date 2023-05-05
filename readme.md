@@ -12,14 +12,14 @@
 
 - 数据点配置
 
-​	![https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/%E6%B6%82%E9%B8%A6%E6%95%B0%E6%8D%AE%E7%82%B9%E9%85%8D%E7%BD%AE.png]()
+​	![数据点配置](https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/%E6%B6%82%E9%B8%A6%E6%95%B0%E6%8D%AE%E7%82%B9%E9%85%8D%E7%BD%AE.png)
 
 - studio面板配置
 
-![https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/%E6%B6%82%E9%B8%A6studio%E9%9D%A2%E6%9D%BF.png]()
+![studio面板配置](https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/%E6%B6%82%E9%B8%A6studio%E9%9D%A2%E6%9D%BF.png)
 
 #### 硬件
 
-![https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/3d.png]()
+![PCB](https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/3d.png)
 
-![https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/433%E5%B0%8F%E6%9D%BF.jpg]()
+![433小板](https://github.com/ccat0663/h66_ty_433_ctr/blob/master/file/433%E5%B0%8F%E6%9D%BF.jpg)
